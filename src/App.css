@@ -16,7 +16,7 @@
   border-radius: 40px;
   padding: 20px;
 
-  font-size: 40px;
+  font-size: 30px;
   margin-top: 20%;
   margin-bottom: 18%;
   color: #fafefe;
@@ -24,7 +24,7 @@
 }
 
 .App-title{
-  font-size: 60px;
+  font-size: 35px;
 }
 
 .Clock-hours, .Clock-minutes, .Clock-seconds, .Clock-days{
@@ -33,7 +33,7 @@
 }
 
 .Deadline-input{
-  font-size: 25px;
+  font-size: 15px;
   margin: 5px;
 }
 
